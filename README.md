@@ -51,8 +51,5 @@ Below are example images showing pipeline status according to test-case:
 3. Commit your changes
 4. Open a pull request
 
-## License
-Specify your license here (e.g., MIT, Apache 2.0, etc.)
-
 ---
 For more details, see the `Jenkinsfile` and `pom.xml` in this repository.
